@@ -13,4 +13,5 @@ import java.util.Scanner;
     sum = x + y;  
     System.out.println("Sum is = " + sum); 
   }
-} 
+}
+### OUTPUT:
