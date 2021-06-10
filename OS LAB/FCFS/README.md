@@ -1,3 +1,4 @@
+![FCFS Output](https://user-images.githubusercontent.com/85677117/121514987-46214000-ca0a-11eb-82dd-9313708d8baa.png)
 # FCFS (First Come First Serve)
 ## Aim: Write a C program to implement the various process scheduling mechanisms such as FCFS Scheduling.
 ### Algorithm:
