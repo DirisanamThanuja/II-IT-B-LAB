@@ -14,4 +14,3 @@ import java.util.Scanner;
     System.out.println("Sum is = " + sum); 
   }
 }
-### OUTPUT:
