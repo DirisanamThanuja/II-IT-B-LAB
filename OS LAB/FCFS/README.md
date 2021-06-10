@@ -12,7 +12,6 @@
   a.Average waiting time = Total waiting Time / Number of process
   b.Average Turnaround time = Total Turnaround Time / Number of process
 7:Stop the process
-#### OUTPUT:
-![output](FCFS Output.png)
+### OUTPUT:
 
 ![FCFS Output](https://user-images.githubusercontent.com/85677117/121514987-46214000-ca0a-11eb-82dd-9313708d8baa.png)
