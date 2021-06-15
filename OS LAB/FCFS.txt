@@ -1,4 +1,4 @@
-AIM : FCFS(First come ,first served)
+AIM : FCFS(First come First serve)
 
 ALGORITHM:
 
